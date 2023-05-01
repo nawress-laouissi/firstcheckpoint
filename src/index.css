@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.formStyling {
+  width: 70%;
+  padding: 20 px, 20 px , 20 px;
+  margin: auto;
+  
+  background-color: pink;
+  
+
+}
+.marqueeStyling {
+  width:30%;
+   direction:ltr; 
+   height: 100 px
+}
